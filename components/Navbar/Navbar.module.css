@@ -1,8 +1,8 @@
 /* Styles pour la barre de navigation */
 .navbar {
     --navbar-bg-color: #00a2ff;
-    --navbar-text-color: #f1f1f1;
-    --navbar-hover-color: #ddd;
+    --navbar-text-color: #ffffff;
+    --navbar-hover-color: #000000;
 
     padding: 10px;
     background: var(--navbar-bg-color);
@@ -23,6 +23,7 @@
 /* Effet de survol pour les liens */
 .navbar a:hover {
     color: var(--navbar-hover-color);
+    text-decoration: underline;
 }
 
 /* Styles pour rendre la barre de navigation plus accessible */
