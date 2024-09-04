@@ -1,0 +1,28 @@
+Vous devez reproduire un site de type Blog qui contient des données (articles, utilisateurs, etc ...).
+Le but est de vous lancer seul, en utilisant ce qu'on a vu dans le cours.
+Vous devez également bien utiliser les méthodes getStaticProps/Paths/SSR.
+
+Technos pour réaliser cet exercice :
+
+- Bootstrap pour l'UI 
+- Next.js pour les données, le rendu de pages, le routing.
+
+Les pages à créer, avec leurs fonctionnalités :
+
+- Accueil :
+1. Afficher une Navbar sur chaque page
+2. Créer deux cartes avec un lien qui pointe vers blog/liste
+
+- Blog :
+1. Utiliser l'API JSONPLACEHOLDER pour afficher les posts.
+2. Les posts ont un lien pour lire l'article.
+
+- Affichage Article :
+1. Afficher le bon titre et contenu de l'article sur lequel on vient de cliquer.
+
+- Liste :
+1. Afficher tous les users grace à l'api JSONPLACEHOLDER.
+2. Faire en sorte qu'on puisse découvrir les infos de contact d'un utilisateur en cliquant dessus.
+
+- Affichage Utilisateur :
+1. Afficher les infos d'un utilisateur, toujours via JSONPLACEHOLDER.

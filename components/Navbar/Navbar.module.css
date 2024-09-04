@@ -1,0 +1,32 @@
+/* Styles pour la barre de navigation */
+.navbar {
+    --navbar-bg-color: #00a2ff;
+    --navbar-text-color: #f1f1f1;
+    --navbar-hover-color: #ddd;
+
+    padding: 10px;
+    background: var(--navbar-bg-color);
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    flex-wrap: wrap; /* Pour rendre la barre de navigation réactive */
+}
+
+/* Styles pour les liens de la barre de navigation */
+.navbar a {
+    margin: 0 10px;
+    color: var(--navbar-text-color);
+    text-decoration: none; /* Supprime le soulignement des liens */
+    transition: color 0.3s ease; /* Ajoute une transition pour l'effet de survol */
+}
+
+/* Effet de survol pour les liens */
+.navbar a:hover {
+    color: var(--navbar-hover-color);
+}
+
+/* Styles pour rendre la barre de navigation plus accessible */
+.navbar a:focus {
+    outline: 2px solid var(--navbar-hover-color); /* Ajoute un contour pour le focus */
+    outline-offset: 2px;
+}
