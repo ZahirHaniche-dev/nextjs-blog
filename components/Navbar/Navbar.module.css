@@ -26,8 +26,4 @@
     text-decoration: underline;
 }
 
-/* Styles pour rendre la barre de navigation plus accessible */
-.navbar a:focus {
-    outline: 2px solid var(--navbar-hover-color); /* Ajoute un contour pour le focus */
-    outline-offset: 2px;
-}
+

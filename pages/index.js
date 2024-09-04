@@ -19,8 +19,8 @@ export default function Home() {
           <div className="col-6">
             <div className={styles.tableau}>
               <h5>Lisez les articles</h5>
-              <p>Maximisez votre culture web</p>
-              <p>Chaque auteur tente de vous apporter le plus de valeur possible par article.</p>
+              <span className={styles.subTitle}>Maximisez votre culture web</span>
+              <p className="my-2">Chaque auteur tente de vous apporter le plus de valeur possible par article.</p>
               <Link href="/blog">
                 <span>Visite du blog</span>
               </Link>
@@ -29,8 +29,8 @@ export default function Home() {
           <div className="col-6">
             <div className={styles.tableau}>
                 <h5>Faites un tour vers la liste de membres</h5>
-                <p>Faites-vous des amis</p>
-                <p>Ajoutez, invitez et discutez avec les différents membres.</p>
+                <span className={styles.subTitle}>Faites-vous des amis</span>
+                <p className="my-2">Ajoutez, invitez et discutez avec les différents membres.</p>
                 <Link href="/blog">
                   <span>Découvre la liste de membres</span>
                 </Link>
