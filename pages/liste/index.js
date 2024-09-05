@@ -22,3 +22,5 @@ export default function index() {
     </div>
   )
 }
+
+// https://jsonplaceholder.typicode.com/users
