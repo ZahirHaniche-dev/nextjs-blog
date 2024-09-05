@@ -3,9 +3,9 @@ import React from 'react';
 export default function Article({ articleEnCours }) {
   return (
     <div className="container">
-      <div className="row">
+      <div className="row ">
         <div className="col-12 my-5">
-          <h1>{articleEnCours.title}</h1>
+          <h1 className='text-center'>{articleEnCours.title}</h1>
           <p>{articleEnCours.body}</p>
         </div>
       </div>        

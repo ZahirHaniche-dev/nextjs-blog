@@ -29,7 +29,7 @@ export default function index(props) {
             <div className={styles.tableau} >
               <h5>{truncateText(item.title, 35)}</h5>
               {/* Utilisation de truncateText pour limiter le nombre de caractères */}
-              <p className="my-2">{truncateText(item.body, 20)}</p>
+              <p className={`my-2 ${styles.subTitle}`}>{truncateText(item.body, 45)}</p>
               <Link href={`/blog/${item.id}`}>
                 <span>Lire cet article</span>
               </Link>
