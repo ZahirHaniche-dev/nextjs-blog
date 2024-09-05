@@ -10,6 +10,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+🚀 https://nextjs-blog-9lhwboyyp-zahirs-projects-49daaed5.vercel.app/
+
 ## Description
 
  ⚛️⚡🎨 Pour ce projet, j’ai choisi NextJS, le framework de ReactJS, un duo puissant pour créer des applications web rapides et réactives, ainsi que Bootstrap pour son approche utilitaire.
