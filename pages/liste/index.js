@@ -43,5 +43,3 @@ export async function getServerSideProps(context) {
       }
   }
 }
-
-// https://jsonplaceholder.typicode.com/users

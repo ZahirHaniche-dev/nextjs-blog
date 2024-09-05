@@ -4,6 +4,8 @@ import styles from '../../styles/Home.module.css';
 
 export default function index(props) {
 
+  console.log(props);
+
   // Fonction pour tronquer le texte
   const truncateText = (text, maxLength) => {
     if (text.length > maxLength) {
@@ -50,4 +52,3 @@ export async function getServerSideProps(context) {
       }
   }
 }
-// https://jsonplaceholder.typicode.com/posts
