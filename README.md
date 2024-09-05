@@ -14,7 +14,7 @@
 
 ## Description
 
- ⚛️⚡🎨 Pour ce projet, j’ai choisi NextJS, le framework de ReactJS, un duo puissant pour créer des applications web rapides et réactives, ainsi que Bootstrap pour son approche utilitaire.
+ ⚛️⚡🎨 For this project, I chose NextJS, the ReactJS framework, a powerful duo for creating fast and responsive web applications, as well as Bootstrap for its utility-based approach.
 
 First, run the development server:
 
