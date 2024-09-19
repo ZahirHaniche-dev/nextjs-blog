@@ -12,6 +12,8 @@
 
 🚀 https://nextjs-blog-9lhwboyyp-zahirs-projects-49daaed5.vercel.app/
 
+https://nextjs-blog-9lhwboyyp-zahirs-projects-49daaed5.vercel.app/
+
 ## Description
 
  ⚛️⚡🎨 For this project, I chose NextJS, the ReactJS framework, a powerful duo for creating fast and responsive web applications, as well as Bootstrap for its utility-based approach.
