@@ -10,9 +10,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-🚀 https://nextjs-blog-9lhwboyyp-zahirs-projects-49daaed5.vercel.app/
+![image](https://github.com/user-attachments/assets/c3b12de9-a30b-4f18-9397-7f01435fc4ac)
 
-https://nextjs-blog-9lhwboyyp-zahirs-projects-49daaed5.vercel.app/
+
+🚀 https://nextjs-blog-9lhwboyyp-zahirs-projects-49daaed5.vercel.app/
 
 ## Description
 
